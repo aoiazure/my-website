@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.92751f7f.chunk.css",
-    "main.js": "/website/static/js/main.410834ca.chunk.js",
-    "main.js.map": "/website/static/js/main.410834ca.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.82be2b4f.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.82be2b4f.js.map",
-    "static/js/2.455c40fe.chunk.js": "/website/static/js/2.455c40fe.chunk.js",
-    "static/js/2.455c40fe.chunk.js.map": "/website/static/js/2.455c40fe.chunk.js.map",
-    "static/js/3.c35815c1.chunk.js": "/website/static/js/3.c35815c1.chunk.js",
-    "static/js/3.c35815c1.chunk.js.map": "/website/static/js/3.c35815c1.chunk.js.map",
-    "index.html": "/website/index.html",
-    "static/css/main.92751f7f.chunk.css.map": "/website/static/css/main.92751f7f.chunk.css.map",
-    "static/js/2.455c40fe.chunk.js.LICENSE.txt": "/website/static/js/2.455c40fe.chunk.js.LICENSE.txt",
-    "static/media/arigatoni.a076dc5b.png": "/website/static/media/arigatoni.a076dc5b.png"
+    "main.css": "/my-website/static/css/main.92751f7f.chunk.css",
+    "main.js": "/my-website/static/js/main.3c6ad467.chunk.js",
+    "main.js.map": "/my-website/static/js/main.3c6ad467.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.87913608.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.87913608.js.map",
+    "static/js/2.edb4ed26.chunk.js": "/my-website/static/js/2.edb4ed26.chunk.js",
+    "static/js/2.edb4ed26.chunk.js.map": "/my-website/static/js/2.edb4ed26.chunk.js.map",
+    "static/js/3.f570e904.chunk.js": "/my-website/static/js/3.f570e904.chunk.js",
+    "static/js/3.f570e904.chunk.js.map": "/my-website/static/js/3.f570e904.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "static/css/main.92751f7f.chunk.css.map": "/my-website/static/css/main.92751f7f.chunk.css.map",
+    "static/js/2.edb4ed26.chunk.js.LICENSE.txt": "/my-website/static/js/2.edb4ed26.chunk.js.LICENSE.txt",
+    "static/media/arigatoni.a076dc5b.png": "/my-website/static/media/arigatoni.a076dc5b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82be2b4f.js",
-    "static/js/2.455c40fe.chunk.js",
+    "static/js/runtime-main.87913608.js",
+    "static/js/2.edb4ed26.chunk.js",
     "static/css/main.92751f7f.chunk.css",
-    "static/js/main.410834ca.chunk.js"
+    "static/js/main.3c6ad467.chunk.js"
   ]
 }
