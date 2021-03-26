@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/Components/RPG/RPG.css"],"names":[],"mappings":"AAAA,gBACI,8BAAuB,CAAvB,sBAAuB,CACvB,SAAU,CACV,SAAU,CACV,UACJ","file":"main.8cddc6de.chunk.css","sourcesContent":[".card-container {\r\n    justify-content: center;\r\n    margin: 1%;\r\n    width: 60%;\r\n    padding: 2%;\r\n}\r\n\r\n.card-container defenses {\r\n\r\n}"]}
