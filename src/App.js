@@ -1,14 +1,15 @@
-import logo from './arigatoni.png';
-import './App.css';
+import { HashRouter, Switch, Route } from "react-router-dom";
+import Home from "./Components/Home";
+import RPG from "./Components/RPG/RPG";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Please hold.</p>
-      </header>
-    </div>
+    <HashRouter basename="/">
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route path="/rpg" component={RPG} />
+      </Switch>
+    </HashRouter>
   );
 }
 
